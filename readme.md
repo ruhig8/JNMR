@@ -4,6 +4,8 @@ The official PyTorch implementation of [JNMR](https://ieeexplore.ieee.org/abstra
 
 Authors: Meiqin Liu, Chenming Xu, Chao Yao*, Chunyu Lin, Yao Zhao
 
+Meiqin Liu and Chenming Xu have the equal contributions.
+
 ## Baseline
 
 There is our proposed baseline of JNMR for four reference frames interpolation. The code of JNMR is coming soon.
