@@ -1,4 +1,9 @@
-# JNMR
+# JNMR: Joint Non-linear Motion Regression for Video Frame Interpolation
+
+The official PyTorch implementation of [JNMR](https://ieeexplore.ieee.org/abstract/document/10255610).
+
+Authors: Chenming Xu, Meiqin Liu, Chao Yao, Weisi Lin, Yao Zhao
+
 ## Baseline
 
 There is our proposed baseline of JNMR for four reference frames interpolation. The code of JNMR is coming soon.
