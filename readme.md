@@ -4,7 +4,7 @@ The official PyTorch implementation of [JNMR](https://ieeexplore.ieee.org/abstra
 
 Authors: Meiqin Liu, Chenming Xu, Chao Yao*, Chunyu Lin, Yao Zhao
 
-Meiqin Liu and Chenming Xu have the equal contributions.
+Meiqin Liu and Chenming Xu have equal contributions.
 
 ## Baseline
 
